@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "economy_craft:netherite_dot"
+    },
+    {
+      "item": "economy_craft:netherite_dot"
+    },
+    {
+      "item": "economy_craft:netherite_dot"
+    },
+    {
+      "item": "economy_craft:netherite_dot"
+    }
+  ],
+  "result": {
+    "item": "economy_craft:netherite_cup",
+    "count": 1
+  }
+}

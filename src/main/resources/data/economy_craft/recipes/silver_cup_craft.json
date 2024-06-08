@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "economy_craft:silver_dot"
+    },
+    {
+      "item": "economy_craft:silver_dot"
+    },
+    {
+      "item": "economy_craft:silver_dot"
+    },
+    {
+      "item": "economy_craft:silver_dot"
+    }
+  ],
+  "result": {
+    "item": "economy_craft:silver_cup",
+    "count": 1
+  }
+}

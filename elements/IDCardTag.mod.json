@@ -1,0 +1,42 @@
+{
+  "_fv": 39,
+  "_type": "tag",
+  "definition": {
+    "type": "Items",
+    "items": [
+      {
+        "value": "CUSTOM:WhiteIDCard"
+      },
+      {
+        "value": "CUSTOM:RedIDCard"
+      },
+      {
+        "value": "CUSTOM:GreenIDCard"
+      },
+      {
+        "value": "CUSTOM:OrangeIDCard"
+      },
+      {
+        "value": "CUSTOM:YellowIDCard"
+      },
+      {
+        "value": "CUSTOM:BlueIDCard"
+      },
+      {
+        "value": "CUSTOM:CyanIDCard"
+      },
+      {
+        "value": "CUSTOM:PurpleIDCard"
+      },
+      {
+        "value": "CUSTOM:BrownIDCard"
+      }
+    ],
+    "blocks": [],
+    "functions": [],
+    "entities": [],
+    "biomes": [],
+    "name": "tag_id_card",
+    "namespace": "minecraft"
+  }
+}

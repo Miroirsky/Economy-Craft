@@ -1,0 +1,43 @@
+{
+  "display": {
+    "icon": {
+      "item": "economy_craft:netherite_bowl"
+    },
+    "title": {
+      "translate": "advancements.netherite_advancement.title"
+    },
+    "description": {
+      "translate": "advancements.netherite_advancement.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": false,
+    "hidden": false
+  },
+  "criteria": {
+    "netherite_advancement": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "economy_craft:netherite_dot"
+            ],
+            "count": {
+              "min": 1,
+              "max": 64
+            }
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "experience": 0,
+    "recipes": [
+      "economy_craft:netherite_cup_craft",
+      "economy_craft:netherite_bowl_craft"
+    ]
+  },
+  "parent": "economy_craft:emerald_advancement"
+}

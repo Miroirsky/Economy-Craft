@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "economy_craft:golden_cup"
+    },
+    {
+      "item": "economy_craft:golden_cup"
+    },
+    {
+      "item": "economy_craft:golden_cup"
+    },
+    {
+      "item": "economy_craft:golden_cup"
+    }
+  ],
+  "result": {
+    "item": "economy_craft:golden_bowl",
+    "count": 1
+  }
+}

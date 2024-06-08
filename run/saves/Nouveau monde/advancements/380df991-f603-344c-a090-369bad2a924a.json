@@ -1,0 +1,57 @@
+{
+  "economy_craft:golden_advancement": {
+    "criteria": {
+      "golden_advancement": "2024-06-08 12:16:57 +0200"
+    },
+    "done": true
+  },
+  "economy_craft:bronze_advancement": {
+    "criteria": {
+      "bronze_advancement": "2024-06-08 12:16:21 +0200"
+    },
+    "done": true
+  },
+  "economy_craft:diamond_advancement": {
+    "criteria": {
+      "diamond_advancement": "2024-06-08 12:17:15 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/chest": {
+    "criteria": {
+      "has_lots_of_items": "2024-06-08 11:54:29 +0200"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:forest": "2024-06-07 18:36:30 +0200"
+    },
+    "done": false
+  },
+  "economy_craft:netherite_advancement": {
+    "criteria": {
+      "netherite_advancement": "2024-06-08 12:17:06 +0200"
+    },
+    "done": true
+  },
+  "economy_craft:emerald_advancement": {
+    "criteria": {
+      "emerald_advancement": "2024-06-08 12:17:14 +0200"
+    },
+    "done": true
+  },
+  "minecraft:story/root": {
+    "criteria": {
+      "crafting_table": "2024-06-08 11:53:50 +0200"
+    },
+    "done": true
+  },
+  "economy_craft:silver_advancement": {
+    "criteria": {
+      "silver_advancement": "2024-06-08 12:16:55 +0200"
+    },
+    "done": true
+  },
+  "DataVersion": 3120
+}

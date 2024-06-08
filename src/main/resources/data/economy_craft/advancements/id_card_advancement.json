@@ -1,0 +1,23 @@
+{
+  "display": {
+    "icon": {
+      "item": "economy_craft:green_id_card"
+    },
+    "title": {
+      "translate": "advancements.id_card_advancement.title"
+    },
+    "description": {
+      "translate": "advancements.id_card_advancement.descr"
+    },
+    "frame": "goal",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "id_card_advancement": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "parent": "economy_craft:economy_craft_advancement"
+}

@@ -1,0 +1,44 @@
+{
+  "display": {
+    "icon": {
+      "item": "economy_craft:golden_bowl"
+    },
+    "title": {
+      "translate": "advancements.golden_advancement.title"
+    },
+    "description": {
+      "translate": "advancements.golden_advancement.descr"
+    },
+    "frame": "goal",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "golden_advancement": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "economy_craft:golden_dot"
+            ],
+            "count": {
+              "min": 1,
+              "max": 64
+            }
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "experience": 0,
+    "recipes": [
+      "economy_craft:golden_cup_craft",
+      "economy_craft:golden_bowl_craft",
+      "economy_craft:diamond_dot_craft"
+    ]
+  },
+  "parent": "economy_craft:silver_advancement"
+}

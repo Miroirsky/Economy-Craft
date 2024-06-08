@@ -1,0 +1,44 @@
+{
+  "display": {
+    "icon": {
+      "item": "economy_craft:diamond_bowl"
+    },
+    "title": {
+      "translate": "advancements.diamond_advancement.title"
+    },
+    "description": {
+      "translate": "advancements.diamond_advancement.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "diamond_advancement": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "economy_craft:diamond_dot"
+            ],
+            "count": {
+              "min": 1,
+              "max": 64
+            }
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "experience": 0,
+    "recipes": [
+      "economy_craft:diamond_cup_craft",
+      "economy_craft:diamond_bowl_craft",
+      "economy_craft:emerald_dot_craft"
+    ]
+  },
+  "parent": "economy_craft:golden_advancement"
+}

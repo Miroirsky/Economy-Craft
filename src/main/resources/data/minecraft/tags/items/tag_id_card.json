@@ -1,0 +1,14 @@
+{
+  "replace": false,
+  "values": [
+    "economy_craft:brown_id_card",
+    "economy_craft:purple_id_card",
+    "economy_craft:blue_id_card",
+    "economy_craft:orange_id_card",
+    "economy_craft:yellow_id_card",
+    "economy_craft:green_id_card",
+    "economy_craft:cyan_id_card",
+    "economy_craft:white_id_card",
+    "economy_craft:red_id_card"
+  ]
+}

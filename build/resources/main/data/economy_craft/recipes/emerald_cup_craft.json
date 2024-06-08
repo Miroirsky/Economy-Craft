@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "economy_craft:emerald_dot"
+    },
+    {
+      "item": "economy_craft:emerald_dot"
+    },
+    {
+      "item": "economy_craft:emerald_dot"
+    },
+    {
+      "item": "economy_craft:emerald_dot"
+    }
+  ],
+  "result": {
+    "item": "economy_craft:emerald_cup",
+    "count": 1
+  }
+}

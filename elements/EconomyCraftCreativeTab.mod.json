@@ -1,0 +1,11 @@
+{
+  "_fv": 39,
+  "_type": "tab",
+  "definition": {
+    "name": "Economy Craft Creative Tab",
+    "icon": {
+      "value": "CUSTOM:GreenIDCard"
+    },
+    "showSearch": false
+  }
+}

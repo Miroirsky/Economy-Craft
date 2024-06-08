@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "economy_craft:diamond_cup"
+    },
+    {
+      "item": "economy_craft:diamond_cup"
+    },
+    {
+      "item": "economy_craft:diamond_cup"
+    },
+    {
+      "item": "economy_craft:diamond_cup"
+    }
+  ],
+  "result": {
+    "item": "economy_craft:diamond_bowl",
+    "count": 1
+  }
+}

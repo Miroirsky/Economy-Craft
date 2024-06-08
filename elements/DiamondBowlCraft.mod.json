@@ -1,0 +1,46 @@
+{
+  "_fv": 39,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 1,
+    "group": "",
+    "recipeShapeless": true,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:DiamondCup"
+      },
+      {
+        "value": "CUSTOM:DiamondCup"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:DiamondCup"
+      },
+      {
+        "value": "CUSTOM:DiamondCup"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:DiamondBowl"
+    },
+    "name": "diamond_bowl_craft",
+    "namespace": "mod"
+  }
+}

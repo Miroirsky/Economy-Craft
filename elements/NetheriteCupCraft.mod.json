@@ -1,0 +1,46 @@
+{
+  "_fv": 39,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 1,
+    "group": "",
+    "recipeShapeless": true,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:NetheriteDot"
+      },
+      {
+        "value": "CUSTOM:NetheriteDot"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:NetheriteDot"
+      },
+      {
+        "value": "CUSTOM:NetheriteDot"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:NetheriteCup"
+    },
+    "name": "netherite_cup_craft",
+    "namespace": "mod"
+  }
+}
